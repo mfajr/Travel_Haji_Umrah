@@ -24,10 +24,10 @@
             <div class="col-lg-9 mt-2 rounded">
                 <div class="card">
                     <div class="card-header">
-                        Log-in
+                        Home
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Ini adalah bagian Log-in</h5>
+                        <h5 class="card-title">Ini adalah bagian home</h5>
                         <p class="card-text">With supporting text below as a natural
                             lead-in to additional conten Lorem ipsum, dolor sit amet
                             consectetur adipisicing elit.Quae ratione illo impedit soluta
