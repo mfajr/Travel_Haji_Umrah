@@ -16,19 +16,29 @@
                             <div class="offcanvas-body">
                                 <ul class="navbar-nav nav-pills flex-column justify-content-end flex-grow-1">
                                     <li class="nav-item">
-                                        <a class="nav-link active link-light ps-2" aria-current="page" href="index.php"><i
+                                        <a class="nav-link ps-2 <?php echo ((isset ($_GET['x']) && $_GET['x']=='home') || !isset ($_GET['x'])) ? 'active link-light' : 'link-dark'; ?>" aria-current="page" href="home"><i
                                                 class="bi bi-house-door-fill"></i> Dashboard</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link link-dark ps-2" href="login.php"><i class="bi bi-box-arrow-in-right"></i>
-                                            Log-in</a>
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='facilities') ? 'active link-light' : 'link-dark'; ?>" href="facilities"><i class="bi bi-building"></i>
+                                            Facilities</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link link-dark ps-2" href="checkout.php"><i class="bi bi-telephone-forward"></i>
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='checkout') ? 'active link-light' : 'link-dark'; ?>" href="checkout"><i class="bi bi-telephone-forward"></i>
                                             Check-out</a>
                                     </li>
+                                    <?php if($hasil['level']==1){ ?>
                                     <li class="nav-item">
-                                        <a class="nav-link link-dark ps-2" href="why_us.php">Why us?</a>
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='report') ? 'active link-light' : 'link-dark'; ?>" href="report"><i class="bi bi-journal-bookmark"></i>
+                                            Report</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='team') ? 'active link-light' : 'link-dark'; ?>" href="team"><i class="bi bi-globe-americas"></i>
+                                            Team</a>
+                                    </li>
+                                    <?php } ?>
+                                    <li class="nav-item">
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='whyus') ? 'active link-light' : 'link-dark'; ?>" href="whyus">Why us?</a>
                                     </li>
                                 </ul>
                             </div>

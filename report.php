@@ -1,11 +1,11 @@
 <div class="col-lg-9 mt-2 rounded">
                 <div class="card">
                     <div class="card-header">
-                        Check-out
+                        REPORT
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Ini adalah bagian Check-out</h5>
-                        <p class="card-text">With supporting text below as a natural
+                        <h5 class="card-title">Ini adalah bagian laporan</h5>
+                        <p class="card-text">hanya bisa di akses oleh admin as a natural
                             lead-in to additional conten Lorem ipsum, dolor sit amet
                             consectetur adipisicing elit.Quae ratione illo impedit soluta
                             accusantium est tempore enim, excepturi optio totam? Dolor,

@@ -1,10 +1,10 @@
 <div class="col-lg-9 mt-2 rounded">
                 <div class="card">
                     <div class="card-header">
-                        Check-out
+                        Mengapa Memilih Travel Kami?
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Ini adalah bagian Check-out</h5>
+                        <h5 class="card-title">Ini adalah bagian "Why us"</h5>
                         <p class="card-text">With supporting text below as a natural
                             lead-in to additional conten Lorem ipsum, dolor sit amet
                             consectetur adipisicing elit.Quae ratione illo impedit soluta
