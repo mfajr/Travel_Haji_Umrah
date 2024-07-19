@@ -1,17 +1,45 @@
 <div class="col-lg-9 mt-2 rounded">
+<div class="row mt-1">
+            <div class="col-sm-12 mb-2">
                 <div class="card">
-                    <div class="card-header">
-                        Mengapa Memilih Travel Kami?
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Ini adalah bagian "Why us"</h5>
-                        <p class="card-text">With supporting text below as a natural
-                            lead-in to additional conten Lorem ipsum, dolor sit amet
-                            consectetur adipisicing elit.Quae ratione illo impedit soluta
-                            accusantium est tempore enim, excepturi optio totam? Dolor,
-                            at. Consequatur, distinctio! Odio repellendus impedit nemo
-                            necessitatibus labore!</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <div class="card-body bg-primary text-center text-light fs-3 rounded">
+                        Apa Keuntungan Memilih Travel Al-Fajr?
                     </div>
                 </div>
+            </div>
+            <div class="col-sm-6 mb-3 mb-sm-0">
+                <div class="card mb-3 border-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Meningkatkan Kepuasan Jamaah</h5>
+                        <p class="card-text">Memberikan pengalaman yang lebih baik kepada
+                            jamaah melalui komunikasi yang lebih baik, pembayaran yang lebih mudah, dan informasi
+                            yang selalu up-to-date. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card border-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Mendukung Pertumbuhan Bisnis</h5>
+                        <p class="card-text">Membantu agen travel dalam mengelola lebih banyak jamaah dengan lebih efisien, yang pada akhirnya dapat mendukung pertumbuhan bisnis mereka.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 mb-3 mb-sm-0">
+                <div class="card border-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Integrasi Pembayaran</h5>
+                        <p class="card-text">Menyediakan sistem pembayaran yang terintegrasi untuk memudahkan jamaah dalam melakukan pembayaran bagi agen dalam memantau status pembayaran.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card border-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Fasilitas Komunikasi</h5>
+                        <p class="card-text">Menyediakan fitur komunikasi yang efisien untuk memastikan informasi penting dapat disampaikan dengan cepat dan jelas kepada jamaah melalui sosial media atau semacamnya.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
             </div>

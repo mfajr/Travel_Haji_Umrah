@@ -1,17 +1,64 @@
 <div class="col-lg-9 mt-2 rounded">
-                <div class="card">
-                    <div class="card-header">
-                        REPORT
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Ini adalah bagian laporan</h5>
-                        <p class="card-text">hanya bisa di akses oleh admin as a natural
-                            lead-in to additional conten Lorem ipsum, dolor sit amet
-                            consectetur adipisicing elit.Quae ratione illo impedit soluta
-                            accusantium est tempore enim, excepturi optio totam? Dolor,
-                            at. Consequatur, distinctio! Odio repellendus impedit nemo
-                            necessitatibus labore!</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
+    <div class="card">
+        <div class="card-body text-bg-primary text-center fs-3 rounded">
+            SISTEM MANAJEMEN TRAVEL HAJI & UMROH AL-FAJR
+        </div>
+        <div class="card-body">
+            <div class="card text-center">
+                <div class="card-header">
+                    riwayat customer
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">RIWAYAT CUSTOMER</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                    2 days ago
                 </div>
             </div>
+
+            <div class="card text-center">
+                <div class="card-header">
+                    data keuangan
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">DATA KEUANGAN</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                    2 days ago
+                </div>
+            </div>
+
+            <div class="card text-center">
+                <div class="card-header">
+                    supply & demand
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">SUPPLY & DEMAND</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                    2 days ago
+                </div>
+            </div>
+
+            <div class="card text-center">
+                <div class="card-header">
+                    Featured
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">PLANNING</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+                <div class="card-footer text-body-secondary">
+                    2 days ago
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

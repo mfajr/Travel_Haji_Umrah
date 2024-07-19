@@ -17,11 +17,11 @@
                                 <ul class="navbar-nav nav-pills flex-column justify-content-end flex-grow-1">
                                     <li class="nav-item">
                                         <a class="nav-link ps-2 <?php echo ((isset ($_GET['x']) && $_GET['x']=='home') || !isset ($_GET['x'])) ? 'active link-light' : 'link-dark'; ?>" aria-current="page" href="home"><i
-                                                class="bi bi-house-door-fill"></i> Dashboard</a>
+                                                class="bi bi-house-door"></i> Dashboard</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='facilities') ? 'active link-light' : 'link-dark'; ?>" href="facilities"><i class="bi bi-building"></i>
-                                            Facilities</a>
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='testimoni') ? 'active link-light' : 'link-dark'; ?>" href="testimoni"><i class="bi bi-hand-thumbs-up"></i>
+                                            Testimony</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='checkout') ? 'active link-light' : 'link-dark'; ?>" href="checkout"><i class="bi bi-telephone-forward"></i>
@@ -33,7 +33,7 @@
                                             Report</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='team') ? 'active link-light' : 'link-dark'; ?>" href="team"><i class="bi bi-globe-americas"></i>
+                                        <a class="nav-link ps-2 <?php echo (isset ($_GET['x']) && $_GET['x']=='team') ? 'active link-light' : 'link-dark'; ?>" href="team"><i class="bi bi-person-workspace"></i>
                                             Team</a>
                                     </li>
                                     <?php } ?>
