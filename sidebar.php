@@ -1,5 +1,5 @@
 <div class="col-lg-3">
-                <nav class="navbar navbar-expand-lg bg-light rounded border mt-2">
+                <nav class="navbar navbar-expand-lg bg-light rounded border mt-2 sticky-top">
                     <div class="container-fluid">
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
                             data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar"

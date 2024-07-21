@@ -1,9 +1,10 @@
 <nav class="navbar navbar-expand navbar-dark bg-primary sticky-top">
     <div class="container-lg">
         <a class="navbar-brand" href="#">
-            <img src="assets/img/gambar_kakbah.png" alt="Kakbah" width="45" height="38">
+            <img src="assets/img/gambar_kakbah.png" alt="Logo" width="40" height="30"
+                class="d-inline-block align-text-top">
+            Al-Fajr
         </a>
-        <h5 class="text-light mt-2">Al-Fajr</h5>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item dropdown">

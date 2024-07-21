@@ -6,7 +6,7 @@ while ($record = mysqli_fetch_array($_query)) {
 }
 ?>
 
-<div class="col-lg-9 mt-2 rounded">
+<div class="col-lg-9 mt-2 mb-5 rounded">
     <div class="card">
         <div class="card-body text-bg-primary text-center fs-3 rounded">
             DATA TEAM SISTEM TRAVEL AL-FAJR
